@@ -1,0 +1,6 @@
+# Your own settings and templates stay in your vault
+data.json
+
+node_modules/
+.DS_Store
+Thumbs.db

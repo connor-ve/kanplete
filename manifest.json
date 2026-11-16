@@ -1,0 +1,10 @@
+{
+  "id": "kanplete",
+  "name": "Kanplete",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Kanban boards you never have to see as markdown: a card editor, subtasks, comments, templates, due dates, and live board columns inside your notes.",
+  "author": "Connor-Ve",
+  "authorUrl": "https://github.com/Connor-Ve",
+  "isDesktopOnly": false
+}
